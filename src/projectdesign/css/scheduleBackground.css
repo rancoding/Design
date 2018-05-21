@@ -1,0 +1,19 @@
+#firstLogin :hover
+{
+    -fx-background-color: #e2e2e2;
+}
+
+#firstLogout :hover
+{
+    -fx-background-color: #e2e2e2;
+}
+
+#secondLogin :hover
+{
+    -fx-background-color: #e2e2e2;
+}
+
+#secondLogout :hover
+{
+    -fx-background-color: #e2e2e2;
+}
