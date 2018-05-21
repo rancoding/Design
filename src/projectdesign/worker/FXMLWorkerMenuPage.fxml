@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.Pane?>
+
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="706.0" xmlns="http://javafx.com/javafx/9.0.1" xmlns:fx="http://javafx.com/fxml/1">
+   <top>
+      <Pane prefHeight="50.0" prefWidth="706.0" style="-fx-background-color: #39393c;" BorderPane.alignment="CENTER">
+         <children>
+            <ComboBox layoutX="636.0" layoutY="13.0" prefWidth="60.0" promptText="PT" />
+            <Button layoutX="10.0" layoutY="13.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="120.0" text="Vendas" />
+            <Button layoutX="140.0" layoutY="13.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="120.0" text="Vendas Guardadas" />
+            <Button layoutX="270.0" layoutY="13.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="120.0" text="Reposições" />
+            <Button layoutX="400.0" layoutY="13.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="120.0" text="Horas de Trabalho" />
+         </children>
+      </Pane>
+   </top>
+</BorderPane>
